@@ -24,7 +24,7 @@ def dist(a, b):
 
     return math.sqrt((x1 - x0)**2 + (y1 - y0)**2)
 
-a = (2, 7)   # <-- x,y coordinates stored in tuples
+a = (2, 7)
 b = (-14, 72)
 
 # Prints "Distance is 66.94"
